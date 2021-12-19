@@ -1,0 +1,1 @@
+include("@CMAKE_INSTALL_PREFIX@/@FOO_CONFIG_DIR@/Foo-Exports.cmake")
